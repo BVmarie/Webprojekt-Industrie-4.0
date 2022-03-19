@@ -1,0 +1,13 @@
+<style>
+
+h1 {text-decoration: underline; background-color:gray; color:black;}
+h2 {background-color: black(250, 112, 0); font-weight: bolder; color:purple;}
+h3 {background-color: gray; color: orangered; text-decoration: underline;}
+tr {color: black; background-color: grey; border:3px inset gray;}
+body {color:orangered; text-decoration: underline; font-style:lighter;}
+a {text-decoration: underline; background-color:gray; color:yellow;}
+td {color: black; background-color: slategrey; border:2px inset darkkhaki;}
+table {color: blue; background-color: grey; border:4px inset black; padding:25px;}
+.image {padding-left: 50px;}
+#size image {width="300"; height="300";}
+</style>
